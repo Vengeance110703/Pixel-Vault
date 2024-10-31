@@ -1,2 +1,2 @@
 # Pixel-Vault
-An image uploading and viewing service with additional features like albums, sharing etc
+Pixel Vault, is a robust photo management application inspired by Google Photos, built to offer users a seamless and organized way to handle their photo collections. Unlike Google Photos, Pixel Vault is tailored to enhance user control over image management, with added features like album organization, favorites selection, and a secure trash feature. The goal was to create an application that feels intuitive, responsive, and aligned with modern cloud-based photo storage standards.
